@@ -1,6 +1,6 @@
 ;;; dragbox.el --- draw a bounding box interactively
 
-
+;; License: GPL-3+
 ;;; Commentary:
 
 ;; Draw a bounding box on an image interactively.
